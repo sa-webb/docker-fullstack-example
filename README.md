@@ -1,6 +1,6 @@
 # Fullstack Docker
 
-From (LinkedIn Learning)[https://www.linkedin.com/learning/docker-for-developers-2/]
+From [LinkedIn Learning](https://www.linkedin.com/learning/docker-for-developers-2/)
 
 ## Stack
 
