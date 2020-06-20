@@ -20,6 +20,10 @@ If problem - start sequentially:
 2. `docker-compose up -d app`
 3. `docker-compose up -d client`
 
+### Running
+
+`docker-compose up`
+
 Client - http://localhost:3000
 
 Server - http://localhost:4000
